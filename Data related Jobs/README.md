@@ -1,5 +1,5 @@
 # Tableau Visualization: Data related Jobs
-*check out the Tableau dashboard at : https://public.tableau.com/shared/PT4HGTX22?:display_count=n&:origin=viz_share_link
+* check out the Tableau dashboard at : https://public.tableau.com/shared/PT4HGTX22?:display_count=n&:origin=viz_share_link
 ## Overview
 This Tableau visualization explores trends in job postings, titles, and average salaries for data analysts, engineers, and scientists.
 ![image](https://github.com/ritikdhame/Tableau-Projects/assets/7029092/f7f59abd-d56d-4150-b7c0-989d59ab626a)
