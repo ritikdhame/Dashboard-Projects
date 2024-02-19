@@ -4,7 +4,7 @@
 https://public.tableau.com/shared/PT4HGTX22?:display_count=n&:origin=viz_share_link
 ![image](https://github.com/ritikdhame/Tableau-Projects/assets/7029092/03086ec1-a911-4f1e-b13d-a9ed4454f173)
 
-* link to the README : https://github.com/ritikdhame/Dashboard-Projects/blob/main/Data%20Related%20Jobs/README.md
+* click here to know more : https://github.com/ritikdhame/Dashboard-Projects/blob/main/Data%20Related%20Jobs/README.md
 
 2. Tableau Visualization: Why go Solar
 *checkout the tableau dashboard here:*
@@ -13,7 +13,7 @@ https://github.com/ritikdhame/Dashboard-Projects/raw/main/Why%20Go%20Solar/Why%2
 ![Recording 2024-02-18 204434 (1)](https://github.com/ritikdhame/Dashboard-Projects/assets/7029092/6296f3a0-bf0e-4ae1-bf36-b1c2c5162abe)
 
 
-* link to the README : https://github.com/ritikdhame/Dashboard-Projects/blob/main/Data%20Related%20Jobs/README.md
+* click here to know more : https://github.com/ritikdhame/Dashboard-Projects/blob/main/Why%20Go%20Solar/README.md
 
 ## Description
 
@@ -27,7 +27,7 @@ https://github.com/ritikdhame/Dashboard-Projects/blob/main/Sales%20Analysis/Sale
 ![image](https://github.com/ritikdhame/Dashboard-Projects/assets/7029092/80a0b37f-4da3-468d-9619-4d1964881227)
 
 
-* link to the README : https://github.com/ritikdhame/Dashboard-Projects/tree/main/Sales%20Analysis#readme 
+* click here to know more : https://github.com/ritikdhame/Dashboard-Projects/tree/main/Sales%20Analysis#readme 
 
 
 ## Description
