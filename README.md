@@ -6,6 +6,13 @@ https://public.tableau.com/shared/PT4HGTX22?:display_count=n&:origin=viz_share_l
 
 * link to the README : https://github.com/ritikdhame/Dashboard-Projects/blob/main/Data%20Related%20Jobs/README.md
 
+2. Tableau Visualization: Analyzing Job_Market_Data
+##checkout the tableau dashboard here:
+
+![Recording 2024-02-18 204434 (1)](https://github.com/ritikdhame/Dashboard-Projects/assets/7029092/6296f3a0-bf0e-4ae1-bf36-b1c2c5162abe)
+
+
+* link to the README : https://github.com/ritikdhame/Dashboard-Projects/blob/main/Data%20Related%20Jobs/README.md
 
 ## Description
 
