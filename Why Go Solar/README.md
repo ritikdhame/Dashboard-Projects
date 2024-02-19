@@ -2,8 +2,9 @@
 
 ## Project Description 
 
-This project provides insights into the adoption of solar panels, influenced by various factors including cost advantages, affordability, availability, environmental factors, and government incentives. The visualizations and analyses are aimed at helping individua
-![Recording 2024-02-18 204434 (1)](https://github.com/ritikdhame/Dashboard-Projects/assets/7029092/6296f3a0-bf0e-4ae1-bf36-b1c2c5162abe)ls decide on the feasibility and benefits of installing solar panels.
+This project provides insights into the adoption of solar panels, influenced by various factors including cost advantages, affordability, availability, environmental factors, and government incentives. The visualizations and analyses are aimed at helping individual feasibility and benefits of installing solar panels.
+
+![Recording 2024-02-18 204434 (1)](https://github.com/ritikdhame/Dashboard-Projects/assets/7029092/6296f3a0-bf0e-4ae1-bf36-b1c2c5162abe)ls decide on the 
 
 ## Data Sources 
 
