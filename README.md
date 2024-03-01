@@ -24,7 +24,7 @@ This project provides insights into the adoption of solar panels, influenced by 
 # PowerBI-Projects
 1. Interactive Power BI Visualization showing sales of Productss with  various drill down and slicer functions
 *checkout Power BI dashboard here:*
-https://github.com/ritikdhame/Dashboard-Projects/blob/main/Sales%20Analysis/Sales%20Report.pbix
+https://app.powerbi.com/groups/me/reports/f0d02f17-171e-4e89-8e98-0727edb1e1e5/ReportSection?experience=power-bi
 ![image](https://github.com/ritikdhame/Dashboard-Projects/assets/7029092/80a0b37f-4da3-468d-9619-4d1964881227)
 
 
